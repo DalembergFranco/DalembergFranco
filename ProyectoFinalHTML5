@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title>PROYECTO FINAL</title>
+</head>
+  <h1>DALEMBERG FRANCO AVILA</h1>
+<body>
+  <table>
+    <tr>
+      <td><a href ="">One</a></td>
+      <td><a href ="">Two</a></td>
+      <td><a href ="">Three</a></td>
+      <td><a href ="">Others</a></td>
+    </tr>
+  </table>
+  <h2>Favorite Foods</h2>
+  <ul>
+    <li>Juices</li>
+    <li>Chocolates</li>
+    <li>Choose</li>
+    <li>Fruits</li>
+  </ul>
+	<h2>Achievements</h2>
+    <label for="file">Progress in this course(100%)</label>
+    <progress id="file" max="100"       value="100"> 100% </progress>
+  <br>
+  <label for="file">Progress in this Specialization capstone(20%)</label>
+    <progress id="file" max="100"       value="20"> 20% </progress>
+  <br>
+  <label for="file">Progress in life golas(50%)</label>
+    <progress id="file" max="100"       value="50"> 50% </progress>
+  <h2>More About Me</h2>
+  <details>
+    <summary>My Childhood</summary>
+    Hello, I am from Ecuador, I like to play soccer and I am studying Information Technology.
+    </details>
+  <br>
+  <p>
+  <img src = "https://www.intro-webdesign.com/images/newlogo.png"
+       width = "175px"> 
+    This page was created by Dalemberg Franco & colleen van Lent. to learn more about web design, visit <a href ="">Intro to WEb Design</a>
+    </p>
+    
+  
+  
+</body>
+</html>
